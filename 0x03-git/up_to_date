@@ -1,0 +1,7 @@
+Git init:initializing git repository
+git status: show the change of repo
+git remote add origin <remote repo>: add remote repository
+git commit -m "message ": ad comit message to your change
+git push -u origin master:ppush the change to the master
+git pull oorigin master: pull the change to the local repo
+git merge :compare the local and remote repo and merge them 
